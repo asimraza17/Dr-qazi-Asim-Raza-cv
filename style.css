@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header, section, footer {
+    padding: 20px;
+    margin: auto;
+    max-width: 800px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+header h1 {
+    margin-bottom: 5px;
+}
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
